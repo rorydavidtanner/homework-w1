@@ -1,5 +1,3 @@
-# 01 HTML CSS Git: Code Refactor
-
 HOME WORK - WEEK 1
 
 
