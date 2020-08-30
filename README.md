@@ -6,6 +6,7 @@ REFRACTOR EXISTING CODE FOR A MARKETING AGENCY
 
 
 
+
 Question:
 
 At one stage I had every thing working fine and then somehow I had all these images appearing and I was unable to see the 'content' content.
